@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  especie: MyString
+  folha: MyString
+  fruto: MyString
+  raiz: MyText
+  altura: MyString
+  user: one
+
+two:
+  especie: MyString
+  folha: MyString
+  fruto: MyString
+  raiz: MyText
+  altura: MyString
+  user: two
